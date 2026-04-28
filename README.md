@@ -8,6 +8,10 @@ The frontend communicates with the backend via REST API endpoints and is designe
 
 ---
 
+<p align="center">
+  <img src="images/chart.png" width="900">
+</p>
+
 ## 1.2 Analysis of the Problem
 
 The main goal of the frontend is to provide a simple and intuitive interface for:
